@@ -1,0 +1,26 @@
+#about {
+  background-color: #06D6A0;
+  padding: 5%;
+}
+#about h2, #about p {
+  text-align: center;
+  color: white;
+  line-height: 2em;
+}
+#about img {
+  border-radius: 50%;
+  margin: 0%;
+}
+.box1 {
+  width: 30%;
+  float: left;
+  overflow: hidden;
+  margin: 1%;
+  text-align: center;
+}
+#about .box1 h2 {
+  text-align: center;
+  line-height: 1em;
+  opacity: 70%;
+  color: #FFC43D;
+}

@@ -1,0 +1,33 @@
+
+#profile {
+  background-color: #1B9AAA;
+}
+.col-s {
+  width: 33%;
+  padding: 2% 1%;
+}
+.col-l {
+  padding-left: 1%;
+  width: 60%;
+  padding: 4%;
+  margin: 0;
+}
+
+#profile div img {
+  border-radius: 50%;
+}
+#profile div {
+  display: inline-block;
+}
+#profile p {
+  color: #F8FFE5;
+  line-height: 1.5em;
+}
+#profile h1 {
+  text-align: center;
+  color: #FFC43D;
+  padding-bottom: 3%;
+}
+#profile.clear {
+    clear: both;
+}

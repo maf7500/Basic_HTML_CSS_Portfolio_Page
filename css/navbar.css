@@ -1,0 +1,29 @@
+nav {
+  background-color: gray;
+  padding: 1%;
+  font-weight: 500;
+  width: 100%;
+}
+nav ul {
+  list-style-type: none;
+}
+nav li a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+}
+nav li {
+  display: inline-block;
+}
+li a:hover {
+  background-color: white;
+  color: gray;
+}
+.dd {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 1%;
+}
